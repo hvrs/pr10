@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PR9-GLADUNOV</string>
+    <string name="nothing3">Меню</string>
+    <string name="nothing1">Корзина</string>
+    <string name="nothing2">Блю чиз</string>
+    <string name="textCHEESE">Идеальное сочетание: нежное куриное филе с кусочками сыра блю чиз. Соусом Пармеджано, смесью итальянских сыров и сыром Моцарелла</string>
+    <string name="nothing">TODO</string>
+    <string name="menu">Меню</string>
+    <string name="Korzina">Корзина</string>
+    <string name="Cheese">Блю чиз</string>
+    <string name="Rubles_450">450 RUB</string>
+    <string name="vetchina">TODO</string>
+    <string name="Vetchina">Ветчина и грибы</string>
+    <string name="opisanie_Vetchina">Нежная пицца с соусом Чесночный Рэнч, Моцареллой, шампиньонами, ароматной ветчиной и чесноком</string>
+    <string name="RUB_400_VETCHINA">400 RUB</string>
+    <string name="Pokupka">Оплатить покупку</string>
+    <string name="CONTINUE">Продолжить выбор товаров</string>
+    <string name="Ubavlenie">-</string>
+    <string name="Colichestvo">1</string>
+    <string name="Dobavlenie">+</string>
+</resources>
